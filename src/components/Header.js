@@ -9,9 +9,10 @@ const Header = () => {
         <div className="header-wrapper">
           <Fade bottom>
             <h2>
-              Hi, I'm {data.name}{" "}
+              {/* Hi, I'm  */}
+              {data.name}{" "}
               <span role="img" aria-label="Emoji">
-                👋
+                {/* 👋 */}
               </span>
             </h2>
           </Fade>
@@ -36,9 +37,9 @@ const Header = () => {
               </h1>
             </div>
           </Fade>
-          <Fade bottom>
+          {/* <Fade bottom>
             <p>{data.headerParagraph}</p>
-          </Fade>
+          </Fade> */}
           <Fade bottom>
             <a
               href={`mailto:${
