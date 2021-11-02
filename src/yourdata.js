@@ -20,11 +20,11 @@ export default {
   name: "Krasimir Kirilov",
   headerTagline: [
     //Line 1 For Header
-    "Engineer,",
-    //Line 2 For Header
-    "data analyst,",
-    //Line 3 For Header
     "product manager",
+    //Line 2 For Header
+    "data analyst",
+    //Line 3 For Header
+    "engineer",
   ],
   //   Header Paragraph
   headerParagraph:
@@ -43,7 +43,7 @@ export default {
         "♞ DontBeBoard is an in-person game recommender and the first full-stack website I built and deployed (live at dontbeboard.com). It is built with PostgreSQL, Java Spring Boot and React.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.imgur.com/Pd66UwD.png",
+        "https://i.imgur.com/zaTYAIJ.png",
       //Project URL - Add Your Project Url Here
       url: "http://www.dontbeboard.com",
     },
@@ -73,7 +73,7 @@ export default {
         "Co-founded DaylaCare in 2019 (after participating and developing the idea at Stanford Health++) and worked as a product manager until leaving the team in 2021 to prioritize other interests.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.imgur.com/iPaBORR.jpg",
+        "https://i.imgur.com/lp11txJ.png",
       //Project URL - Add Your Project Url Here
       url: "https://www.daylacare.com",
     },
@@ -120,10 +120,10 @@ export default {
     {
       title: "LunchBox", //Project Title - Add Your Project Title Here
       para:
-        "Our school team was one of the best in the country, leading us to qualify to a number of regionals and national competitions and win prestigious awards.", // Add Your Service Type Here
+        "Researched, designed, developed and tested a prototype of a food recommendation app as part of UCL Software Engineering module coursework.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://model-lab.dunnhumby.com/wp-content/uploads/2020/09/dashboard-scaled.jpg",
+        "https://i.imgur.com/i2eKKOn.png",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
@@ -208,6 +208,16 @@ export default {
       url: "http://chetanverma.com/",
     },
     {
+      title: "Flashcards business", //Project Title - Add Your Project Title Here
+      para:
+        "Our school team was one of the best in the country, leading us to qualify to a number of regionals and national competitions and win prestigious awards.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://model-lab.dunnhumby.com/wp-content/uploads/2020/09/dashboard-scaled.jpg",
+      //Project URL - Add Your Project Url Here
+      url: "http://chetanverma.com/",
+    },
+    {
       title: "Bulgarian National Debate Team", //Project Title - Add Your Project Title Here
       para:
         "After 3 years of competitive debating and ranking #4th best speaker in Bulgaria, with a number of team finals and semi-finals reached, I made it into the 2017 Bulgarian National Debate team where we went on to represent Bulgaria globally in one of the largest debating championships.", // Add Your Service Type Here
@@ -267,13 +277,6 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
-
-
-
-
-
-    
-
 
 
     /*
